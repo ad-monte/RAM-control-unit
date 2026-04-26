@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="446.350 ns"></ZoomStartTime>
+      <ZoomEndTime time="715.151 ns"></ZoomEndTime>
+      <Cursor1Time time="561.750 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="159"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/Testbench/clk_s" type="logic">
+      <obj_property name="ElementShortName">clk_s</obj_property>
+      <obj_property name="ObjectShortName">clk_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/rst_s" type="logic">
+      <obj_property name="ElementShortName">rst_s</obj_property>
+      <obj_property name="ObjectShortName">rst_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/en_s" type="logic">
+      <obj_property name="ElementShortName">en_s</obj_property>
+      <obj_property name="ObjectShortName">en_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/start" type="logic">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/add_s" type="array">
+      <obj_property name="ElementShortName">add_s[4:0]</obj_property>
+      <obj_property name="ObjectShortName">add_s[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/RAMDout_s" type="array">
+      <obj_property name="ElementShortName">RAMDout_s[7:0]</obj_property>
+      <obj_property name="ObjectShortName">RAMDout_s[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/output" type="array">
+      <obj_property name="ElementShortName">output[4:0]</obj_property>
+      <obj_property name="ObjectShortName">output[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/ctrlunit/currentstate" type="other">
+      <obj_property name="ElementShortName">currentstate</obj_property>
+      <obj_property name="ObjectShortName">currentstate</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/ctrlunit/firstentry" type="array">
+      <obj_property name="ElementShortName">firstentry[7:0]</obj_property>
+      <obj_property name="ObjectShortName">firstentry[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/ctrlunit/count" type="array">
+      <obj_property name="ElementShortName">count[4:0]</obj_property>
+      <obj_property name="ObjectShortName">count[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/ctrlunit/curraddress" type="array">
+      <obj_property name="ElementShortName">curraddress[4:0]</obj_property>
+      <obj_property name="ObjectShortName">curraddress[4:0]</obj_property>
+   </wvobject>
+</wave_config>

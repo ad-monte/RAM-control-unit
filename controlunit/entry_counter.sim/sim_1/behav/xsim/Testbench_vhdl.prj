@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../entry_counter.srcs/sources_1/imports/Specification and Simulation of Digital Systems/RAM.vhd" \
+"../../../../entry_counter.srcs/sources_1/new/control_unit.vhd" \
+"../../../../entry_counter.srcs/sim_1/new/Testbench.vhd" \
+
+# Do not sort compile order
+nosort
